@@ -1,1 +1,1 @@
-<img src = "banner.gif" wodth = "325px"  >
+<img src = "kurisu.gif" wodth = "325px"  >
