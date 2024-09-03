@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on develop myself<br><br>🌱 I’m currently learning C#, python and JS<br>
+🔭I’m currently learning C#, python and JS<br>
 
 
 # 💻 Tech Stack:
