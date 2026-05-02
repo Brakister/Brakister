@@ -28,9 +28,9 @@
 
 ### 🔝 Top Contributed Repo
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</a>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
 
 <br>
 <br>
