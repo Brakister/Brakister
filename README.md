@@ -15,14 +15,14 @@
 
 # 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&layout=compact&langs_count=8" alt="Top Langs" height="180em" />
 
 <br/>
 
 ### 🔝 Top Contributed Repo
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 
 <br/>
 
