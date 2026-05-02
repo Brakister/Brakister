@@ -15,22 +15,14 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&show_icons=true&icon_color=58A6FF&title_color=58A6FF&bg_color=0D1117&hide_border=false" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&layout=compact&langs_count=8&bg_color=0D1117&hide_border=false" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
 ### 🔝 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
+![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <br/>
 
