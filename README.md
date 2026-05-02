@@ -11,29 +11,28 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-<br>
+<br/>
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=58A6FF&title_color=58A6FF&bg_color=0D1117" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brakister&theme=dark&show_icons=true&icon_color=58A6FF&title_color=58A6FF&bg_color=0D1117&hide_border=false" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&layout=compact&langs_count=8&bg_color=0D1117&hide_border=false" />
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brakister&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8&bg_color=0D1117" />
-</a>
-
-<br>
-<br>
+<br/>
 
 ### 🔝 Top Contributed Repo
 
-<div align="center">
+<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Brakister&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+</p>
 
-<br>
-<br>
+<br/>
 
 ---
 
